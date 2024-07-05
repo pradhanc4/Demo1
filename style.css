@@ -12,7 +12,7 @@ body{
   justify-content: center;
   min-height: 100vh;
   padding: 40px;
-  background: url(./images/login-bg.png)
+  background: url('./images/login-bg.png')
 }
 .container{
   max-width: 800px;
